@@ -1,17 +1,24 @@
-<h1 align="left">Simone Bergamin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laocker96&label=Profile%20views&color=0e75b6&style=flat" alt="laocker96" /> </p>
+<h1 align="left">Simone Bergamin
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=laocker96&label=Profile%20views&color=0e75b6&style=flat" alt="laocker96" />
+</p>
+</h1>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=laocker96&show_icons=true&locale=en&layout=compact" alt="laocker96" /></p>
 <i align="center">Frontend web developer</i>
+<br/>
+<br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/simone-bergamin-209948201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bz2xixpjcqqww2r3mgbeg1a%3d%3d" height="30" width="40" /></a>
    <a href="https://stackoverflow.com/users/14203638/loacker96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="loacker96" height="30" width="40" /></a>
    <a href="https://instagram.com/simonebergamin9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simonebergamin9" height="30" width="40" /></a>
 </p>
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <ul>
    <li>
-      <h4 align="left">Currently working:</h4>
+      <h4 align="left">Currently working</h4>
       <div>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -33,7 +40,7 @@
       </a>
    </li>
    <li>
-      <h4 align="left">Previously worked with:</h4>
+      <h4 align="left">Previously worked with</h4>
       <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -56,7 +63,7 @@
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
    </li>
    <li>
-      <h4 align="left">Learning:</h4>
+      <h4 align="left">Learning</h4>
       <div>
       <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -71,7 +78,7 @@
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
    </li>
    <li>
-      <h4 align="left">Curious about:</h4>
+      <h4 align="left">Curious about</h4>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>      <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
    </li>
 </ul>
