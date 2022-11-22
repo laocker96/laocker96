@@ -75,8 +75,3 @@
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>      <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
    </li>
 </ul>
-<br/>
-<div>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laocker96&show_icons=true&locale=en" alt="laocker96" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laocker96&" alt="laocker96" /></p>
-</div>
