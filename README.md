@@ -1,4 +1,4 @@
-<h1 align="center">Simone Bergamin</h1>
+<h1 align="left">Simone Bergamin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laocker96&label=Profile%20views&color=0e75b6&style=flat" alt="laocker96" /> </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=laocker96&show_icons=true&locale=en&layout=compact" alt="laocker96" /></p>
 <i align="center">Frontend web developer</i>
